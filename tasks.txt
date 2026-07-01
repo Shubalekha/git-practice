@@ -1,3 +1,5 @@
 Task 1 - Clone the repository
 Task 2 - Create a new branch
 Task 3 - Add files and raise PR
+Task 4 - Modify existing files and raise PR
+Task 5 - Write meaningful commit messages

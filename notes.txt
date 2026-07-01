@@ -1,1 +1,2 @@
 This file contains some Git practice notes.
+Updated: Also learned how to modify files and raise a PR with clear commit messages.
