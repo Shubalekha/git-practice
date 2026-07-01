@@ -1,2 +1,1 @@
-hi git
-second change on branch
+This file contains my Git practice notes.
